@@ -15,20 +15,21 @@ Passionate **Software Engineer** learning Full-Stack Development and crushing DS
 - **Tools & Others**: Git, Docker, AWS basics, Jupyter, LeetCode  
 - **Databases**: SQL, PostgreSQL, MongoDB  
 
-## 📊 GitHub Stats
-![Bhupen's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhupenGupta05&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhupenGupta05&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=BhupenGupta05&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🔥 Pinned Projects
 Here are some of my highlighted works (pinned on my profile):  
-- **[DSA-Practice](https://github.com/BhupenGupta05/DSA-Practice)** — Organized LeetCode solutions by pattern (hashing, sliding window, graphs, etc.)  
-- **[House-Price-Prediction](https://github.com/BhupenGupta05/House-Price-Prediction)** — ML model for house price prediction with EDA and deployment basics  
-- **[Rainfall-Analysis](https://github.com/BhupenGupta05/Rainfall-Analysis)** — Data visualization of rainfall patterns in India  
-- **[Movie-Recommendation](https://github.com/BhupenGupta05/Movie-Recommendation)** — Basic recommendation system insights and viz  
+## 🔥 Pinned Projects
+Here are my highlighted works (pinned on my profile):
 
+- **[Commute-Planner](https://github.com/BhupenGupta05/Commute-Planner)**  
+  Full-stack commute optimizer using real-time data, maps APIs, and efficient routing algorithms (MERN stack focus).
+
+- **[Smart-Assistant](https://github.com/BhupenGupta05/smart-assistant)**  
+  AI-powered personal assistant with search and route generation using Chatbot prompting (Node.js + React).
+
+- **[Song-Detector](https://github.com/BhupenGupta05/song-detector)**  
+  Music recognition, lyrics generation & recommendation tool using audio analysis.
+
+Feel free to explore the code, run the projects, or suggest improvements — always open to feedback and collaborations! 🚀
 (Feel free to check out all my repos!)
 
 Always open to collaborations, feedback, or interview prep chats — let's connect! 🚀
